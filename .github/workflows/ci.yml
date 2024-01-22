@@ -24,4 +24,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: ghcr.io/fred-drake/git-sync:latest
+          tags: fred-drake/git-sync:latest
